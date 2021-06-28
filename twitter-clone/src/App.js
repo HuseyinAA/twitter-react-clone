@@ -1,5 +1,7 @@
 import React from 'react';
 import Sidebar from  './Sidebar';
+import Feed from './Feed';
+import Widgets from './Widgets';
 
 import './App.css';
 
@@ -8,14 +10,14 @@ function App() {
   return (
     //Following the BEM convention
     <div className="app">
-      <h1>Hola</h1>
-
       {/*Side*/}
       <Sidebar/>
 
       {/*Feed*/}
+      <Feed />
 
       {/*Widgets*/}
+      <Widgets />
     </div>
   );
 }
