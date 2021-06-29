@@ -10,5 +10,3 @@ The second image is the current state of the clone where everything I set out to
 ![twitter_clone_img02](/images/twitter_clone_img02.PNG)
 
 But for now it is in a acceptable stage.
-
-Diren was here
